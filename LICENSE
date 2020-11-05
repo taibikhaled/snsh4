@@ -19,3 +19,33 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+
+salam 
+
+1. tu peut telecharger la dernier version linux
+
+https://github.com/taibikhaled/snsh4.
+
+2. j'ai un souci dans avec le transfert des photos d'inscription, pièce jointes , si tu 
+peut  exécuter les commandes suivantes dans  terminal de linux :
+
+
+sudo chmod 777 -R /opt/lampp/htdocs/snsh/backup
+
+
+sudo chmod 777 -R /opt/lampp/htdocs/snsh/backup/etablissement/inscription/photos
+
+
+sudo chmod 777 -R /opt/lampp/htdocs/snsh/backup/institut/inscription/photos
+
+
+sudo chmod 777 -R /opt/lampp/htdocs/snsh/backup/ecole01/inscription/photos
+
+
+sudo chmod 777 -R /opt/lampp/htdocs/snsh/backup/bejaia/inscription/photos
+
+
+sudo chmod 777 -R /opt/lampp/htdocs/snsh/backup/oran/inscription/photos
+
