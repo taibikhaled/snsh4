@@ -1,0 +1,6 @@
+
+CREATE TABLE `equivalent_niveau_ecole` (
+  `id` int(11) NOT NULL,
+  `designation` varchar(200) NOT NULL,
+  `niveau` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;

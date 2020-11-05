@@ -1,0 +1,10 @@
+CREATE TABLE `snsh`.`evenement` ( `id` INT NOT NULL AUTO_INCREMENT , 
+`ref` VARCHAR(100) NOT NULL ,
+`titre` VARCHAR(200) NOT NULL , 
+`content` TEXT NOT NULL , 
+`dat` DATETIME NOT NULL , 
+`f_img` VARCHAR(50)  NULL , 
+`f_pj` VARCHAR(50)  NULL , 
+`content_text` TEXT NULL , 
+
+PRIMARY KEY (`id`)) ENGINE = InnoDB;

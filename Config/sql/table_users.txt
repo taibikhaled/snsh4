@@ -1,0 +1,6 @@
+CREATE TABLE `snsh`.`users` ( 
+`user` VARCHAR(30) NOT NULL , 
+`password` VARCHAR(30) NOT NULL,
+`nom` VARCHAR(60) NOT NULL,
+`typ` VARCHAR(30) NOT NULL  ) 
+ENGINE = InnoDB;

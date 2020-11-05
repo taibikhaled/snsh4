@@ -1,0 +1,1618 @@
+CODE_W;COMMUNE;CODE_C
+0;;
+1;;
+1;Adrar;1
+1;Akabli;2
+1;Aougrout;3
+1;Aoulef;4
+1;Bordj Badji Mokhtar;5
+1;Bouda;6
+1;Charouine;7
+1;Deldoul;8
+1;Fenoughil;9
+1;In Zghmir;10
+1;Ksar Kaddour;11
+1;Metarfa;12
+1;Ouled Ahmed Timmi;13
+1;Ouled Aissa;14
+1;Ouled Said;15
+1;Reggane;16
+1;Sali;17
+1;Sebaa;18
+1;Talmine;19
+1;Tamantit;20
+1;Tamest;21
+1;Timekten;22
+1;Timiaouine;23
+1;Timimoun;24
+1;Tinerkouk;25
+1;Tit;26
+1;Tsabit;27
+1;Zaouiet Kounta;28
+2;;
+2;Abou El Hassan;1
+2;Ain Merane;2
+2;Benairia;3
+2;Beni Bouateb;4
+2;Beni Haoua;5
+2;Beni Rached;6
+2;Boukadir;7
+2;Bouzeghaia;8
+2;Breira;9
+2;Chettia;10
+2;Chlef;11
+2;Dahra;12
+2;El Hadjadj;13
+2;El Karimia;14
+2;El Marsa;15
+2;Harchoun;16
+2;Herenfa;17
+2;Labiod Medjadja;18
+2;Moussadek;19
+2;Oued Fodda;20
+2;Oued Goussine;21
+2;Oued Sly;22
+2;Ouled Abbes;23
+2;Ouled Benabdelkader;24
+2;Ouled Fares;25
+2;Oum Drou;26
+2;Sendjas;27
+2;Sidi Abderrahmane;28
+2;Sidi Akkacha;29
+2;Sobha;30
+2;Tadjena;31
+2;Talassa;32
+2;Taougrite;33
+2;Tenes;34
+2;Zeboudja;35
+3;;
+3;Aflou;1
+3;Ain Madhi;2
+3;Ain Sidi Ali;3
+3;Beidha;4
+3;Bennasser Benchohra;5
+3;Brida;6
+3;El Ghicha;7
+3;El Haouaita;8
+3;Elassafia;9
+3;Gueltat Sidi Saad;10
+3;Hadj Mecheri;11
+3;Hassi-Delaa;12
+3;Hassi-R'Mel;13
+3;Kheneg;14
+3;Ksar El Hirane;15
+3;Laghouat;16
+3;Oued M'Zi;17
+3;Oued Morra;18
+3;Sebgag;19
+3;Sidi Bouzid;20
+3;Sidi Makhlouf;21
+3;Tadjemount;22
+3;Tadjrouna;23
+3;Taoulala;24
+4;;
+4;Ain Babouche;1
+4;Ain Beida;2
+4;Ain Diss;3
+4;Ain Fekroun;4
+4;Ain Kercha;5
+4;Ain M'Lila;6
+4;Ain Zitoun;7
+4;Behir Chergui;8
+4;Berriche;9
+4;Bir Chouhada;10
+4;Dhala;11
+4;El Amiria;12
+4;El Belala;13
+4;El Djazia;14
+4;El Fedjoudj Boughrara Saoudi;15
+4;El Harmilia;16
+4;Fkirina;17
+4;Hanchir Toumghani;18
+4;Ksar Shabi;19
+4;Meskiana;20
+4;Oued Nini;21
+4;Ouled Gacem;22
+4;Ouled Hamla;23
+4;Ouled Zouai;24
+4;Oum El Bouaghi;25
+4;Rahia;26
+4;Sigus;27
+4;Souk Namane;28
+4;Zorg;29
+5;;
+5;Abdelkader Azil;1
+5;Ain Djasser;2
+5;Ain Touta;3
+5;Ain Yagout;4
+5;Amdoukal;5
+5;Arris;6
+5;Barika;7
+5;Batna;8
+5;Beni Foudhala El Hakania;9
+5;Bitam;10
+5;Boulhilat;11
+5;Boumagueur;12
+5;Boumia;13
+5;Bouzina;14
+5;Chemora;15
+5;Djerma;16
+5;Djezzar;17
+5;El Hassi;18
+5;El Madher;19
+5;Fesdis;20
+5;Foum Toub;21
+5;Ghassira;22
+5;Gosbat;23
+5;Guigba;24
+5;Hidoussa;25
+5;Ichmoul;26
+5;Inoughissen;27
+5;Kimmel;28
+5;Ksar Bellazma;29
+5;Larbaa;30
+5;Lazrou;31
+5;Lemsane;32
+5;Maafa;33
+5;Menaa;34
+5;Meraouna;35
+5;N'Gaous;36
+5;Nouader;37
+5;Oued Chaaba;38
+5;Oued El Ma;39
+5;Oued Taga;40
+5;Ouled Ammar;41
+5;Ouled Aouf;42
+5;Ouled Fadel;43
+5;Ouled Sellam;44
+5;Ouled Si Slimane;45
+5;Ouyoun El Assafir;46
+5;Rahbat;47
+5;Ras El Aioun;48
+5;Sefiane;49
+5;Seggana;50
+5;Seriana;51
+5;T'Koutt;52
+5;Talkhamt;53
+5;Taxlent;54
+5;Tazoult;55
+5;Teniet El Abed;56
+5;Tighanimine;57
+5;Tigher Ghar;58
+5;Tilatou;59
+5;Timgad;60
+5;Zanat El Beida;61
+6;;
+6;Adekar;1
+6;Ait Rizine;2
+6;Ait Smail;3
+6;Akbou;4
+6;Akfadou;5
+6;Amalou;6
+6;Amizour;7
+6;Aokas;8
+6;Barbacha;9
+6;Bejaia;10
+6;Beni Djellil;11
+6;Beni Ksila;12
+6;Beni Maouch;13
+6;Beni Melikeche;14
+6;Boudjellil;15
+6;Bouhamza;16
+6;Boukhelifa;17
+6;Chelata;18
+6;Chemini;19
+6;Darguina;20
+6;Draa Kaid;21
+6;El Kseur;22
+6;Ferraoun;23
+6;Ifelain Ilmathen;24
+6;Ighil Ali;25
+6;Ighram;26
+6;Kendira;27
+6;Kherrata;28
+6;Leflaye;29
+6;M'Cisna;30
+6;Melbou;31
+6;Oued Ghir;32
+6;Ouzellaguen;33
+6;Seddouk;34
+6;Semaoun;35
+6;Sidi Aich;36
+6;Sidi Ayad;37
+6;Souk El Thenine;38
+6;Souk Oufella;39
+6;Tala Hamza;40
+6;Tamokra;41
+6;Tamridjet;42
+6;Taourirt Ighil;43
+6;Taskriout;44
+6;Tazmalt;45
+6;Thinabdher;46
+6;Tibane;47
+6;Tichi;48
+6;Tifra;49
+6;Timzrit;50
+6;Tizi N'Berber;51
+6;Toudja;52
+7;;
+7;Ain Naga;1
+7;Ain Zaatout;2
+7;Besbes;3
+7;Biskra;4
+7;Bordj Ben Azzouz;5
+7;Bouchagroun;6
+7;Branis;7
+7;Chetma;8
+7;Djemorah;9
+7;Doucen;10
+7;Ech Chaiba;11
+7;El Feidh;12
+7;El Ghrous;13
+7;El Hadjeb;14
+7;El Haouch;15
+7;El Kantara;16
+7;El Outaya;17
+7;Foughala;18
+7;Khanguet Sidi Nadji;19
+7;Lichana;20
+7;Lioua;21
+7;M'Chouneche;22
+7;M'Lili;23
+7;Mekhadma;24
+7;Meziraa;25
+7;Ouled Djellal;26
+7;Oumache;27
+7;Ourlal;28
+7;Ras El Miaad;29
+7;Sidi Khaled;30
+7;Sidi Okba;31
+7;Tolga;32
+7;Zeribet El Oued;33
+8;;
+8;Abadla;1
+8;Bechar;2
+8;Beni Abbes;3
+8;Beni Ikhlef;4
+8;Beni Ounif;5
+8;Boukais;6
+8;El Ouata;7
+8;Erg Ferradj;8
+8;Igli;9
+8;Kenadsa;10
+8;Kerzaz;11
+8;Ksabi;12
+8;Lahmar;13
+8;Mechraa Houari Boumediene;14
+8;Meridja;15
+8;Mogheul;16
+8;Ouled Khoudir;17
+8;Tabalbala;18
+8;Taghit;19
+8;Tamtert;20
+8;Timoudi;21
+9;;
+9;Ain Romana;1
+9;Ben Khellil;2
+9;Beni Merad;3
+9;Beni Tamou;4
+9;Blida;5
+9;Bouarfa;6
+9;Boufarik;7
+9;Bougara;8
+9;Bouinan;9
+9;Chebli;10
+9;Chiffa;11
+9;Chrea;12
+9;Djebabra;13
+9;El Affroun;14
+9;Guerrouaou;15
+9;Hammam Melaoune;16
+9;Larbaa;17
+9;Meftah;18
+9;Mouzaia;19
+9;Oued Djer;20
+9;Oued El Alleug;21
+9;Ouled Selama;22
+9;Ouled Yaich;23
+9;Souhane;24
+9;Soumaa;25
+10;;
+10;Aghbalou;1
+10;Ahl El Ksar;2
+10;Ain Bessam;3
+10;Ain El Hadjar;4
+10;Ain Laloui;5
+10;Ain Turk;6
+10;Ait Laziz;7
+10;Aomar;8
+10;Bechloul;9
+10;Bir Ghbalou;10
+10;Bordj Oukhriss;11
+10;Bouderbala;12
+10;Bouira;13
+10;Boukram;14
+10;Chorfa;15
+10;Dechmia;16
+10;Dirah;17
+10;Djebahia;18
+10;El Adjiba;19
+10;El Asnam;20
+10;El Hachimia;21
+10;El Hakimia;22
+10;El Khebouzia;23
+10;El Mokrani;24
+10;Guerrouma;25
+10;Hadjera Zerga;26
+10;Haizer;27
+10;Hanif;28
+10;Kadiria;29
+10;Lakhdaria;30
+10;M'Chedallah;31
+10;Maala;32
+10;Maamora;33
+10;Mezdour;34
+10;Oued El Berdi;35
+10;Ouled Rached;36
+10;Raouraoua;37
+10;Ridane;38
+10;Saharidj;39
+10;Souk El Khemis;40
+10;Sour El Ghozlane;41
+10;Taghzout;42
+10;Taguedit;43
+10;Taourirt;44
+10;Zbarbar;45
+11;;
+11;Abalessa;1
+11;Foggaret Ezzaouia;2
+11;Idles;3
+11;In Amguel;4
+11;In Ghar;5
+11;In Ghezzam;6
+11;In Salah;7
+11;Tamanrasset;8
+11;Tazrouk;9
+11;Tin Zaouatine;10
+12;;
+12;Ain Zerga;1
+12;Bedjene;2
+12;Bekkaria;3
+12;Bir Dheheb;4
+12;Bir El Ater;5
+12;Bir El Mokadem;6
+12;Boukhadra;7
+12;Boulhaf Dyr;8
+12;Cheria;9
+12;El Aouinet;10
+12;El Kouif;11
+12;El Ma El Biodh;12
+12;El Mezeraa;13
+12;El Ogla;14
+12;El Ogla El Mahla;15
+12;Elmeridj;16
+12;Ferkane;17
+12;Guorriguer;18
+12;Hammamet;19
+12;Lahouidjbet;20
+12;Morsott;21
+12;Negrine;22
+12;Ouenza;23
+12;Oum Ali;24
+12;Safsaf El Ouesra;25
+12;Stah Guentis;26
+12;Tebessa;27
+12;Thlidjene;28
+13;;
+13;Ain Fetah;1
+13;Ain Fezza;2
+13;Ain Ghoraba;3
+13;Ain Kebira;4
+13;Ain Nehala;5
+13;Ain Tallout;6
+13;Ain Youcef;7
+13;Amieur;8
+13;Azails;9
+13;Bab El Assa;10
+13;Beni Bahdel;11
+13;Beni Boussaid;12
+13;Beni Khellad;13
+13;Beni Mester;14
+13;Beni Ouarsous;15
+13;Beni Semiel;16
+13;Beni Snous;17
+13;Bensekrane;18
+13;Bouhlou;19
+13;Chetouane;20
+13;Dar Yaghmouracene;21
+13;Djebala;22
+13;El Aricha;23
+13;El Bouihi;24
+13;El Fehoul;25
+13;El Gor;26
+13;Fellaoucene;27
+13;Ghazaouet;28
+13;Hammam Boughrara;29
+13;Hennaya;30
+13;Honaine;31
+13;Maghnia;32
+13;Mansourah;33
+13;Marsa Ben M'Hidi;34
+13;Msirda Fouaga;35
+13;Nedroma;36
+13;Oued Lakhdar;37
+13;Ouled Mimoun;38
+13;Ouled Riyah;39
+13;Remchi;40
+13;Sabra;41
+13;Sebaa Chioukh;42
+13;Sebdou;43
+13;Sidi Abdelli;44
+13;Sidi Djillali;45
+13;Sidi Medjahed;46
+13;Souahlia;47
+13;Souani;48
+13;Souk Thlata;49
+13;Tianet;50
+13;Tirni Beni Hediel;51
+13;Tlemcen;52
+13;Zenata;53
+14;;
+14;Ain Bouchekif;1
+14;Ain Deheb;2
+14;Ain El Hadid;3
+14;Ain Kermes;4
+14;Ain Zarit;5
+14;Bougara;6
+14;Chehaima;7
+14;Dahmouni;8
+14;Djelibet Rosfa;9
+14;Djillali Ben Amar;10
+14;Faidja;11
+14;Frenda;12
+14;Guertoufa;13
+14;Hamadia;14
+14;Ksar Chellala;15
+14;Madna;16
+14;Mahdia;17
+14;Mechraa Safa;18
+14;Medrissa;19
+14;Medroussa;20
+14;Meghila;21
+14;Mellakou;22
+14;Nadorah;23
+14;Naima;24
+14;Oued Lilli;25
+14;Ouled Djerad;26
+14;Rahouia;27
+14;Rechaiga;28
+14;Sebaine;29
+14;Sebt;30
+14;Serghine;31
+14;Si Abdelghani;32
+14;Sidi Ali Mellal;33
+14;Sidi Bakhti;34
+14;Sidi Hosni;35
+14;Sougueur;36
+14;Tagdemt;37
+14;Takhemaret;38
+14;Tiaret;39
+14;Tidda;40
+14;Tousnina;41
+14;Zmalet El Emir Abdelkader;42
+15;;
+15;Abi Youcef;1
+15;Aghni Goughran;2
+15;Aghrib;3
+15;Ain El Hammam;4
+15;Ain Zaouia;5
+15;Ait Aggouacha;6
+15;Ait Aissa Mimoun;7
+15;Ait Bouadou;8
+15;Ait Boumehdi;9
+15;Ait Chaffaa;10
+15;Ait Khelili;11
+15;Ait Mahmoud;12
+15;Ait Oumalou;13
+15;Ait Toudert;14
+15;Ait Yahia;15
+15;Ait Yahia Moussa;16
+15;Akbil;17
+15;Akerrou;18
+15;Assi Youcef;19
+15;Azazga;20
+15;Azzefoun;21
+15;Ben Zmenzer;22
+15;Beni Aissi;23
+15;Beni Douala;24
+15;Beni Yenni;25
+15;Beni Ziki;26
+15;Boghni;27
+15;Boudjima;28
+15;Bounouh;29
+15;Bouzguen;30
+15;Dra Ben Khedda;31
+15;Draa El Mizan;32
+15;Freha;33
+15;Frikat;34
+15;Iboudraren;35
+15;Idjeur;36
+15;Iferhounene;37
+15;Ifigha;38
+15;Iflissen;39
+15;Illilten;40
+15;Illoula Oumalou;41
+15;Imsouhal;42
+15;Irdjen;43
+15;Larba Nath Irathen;44
+15;M'Kira;45
+15;Maatka;46
+15;Makouda;47
+15;Mechtrass;48
+15;Mekla;49
+15;Mizrana;50
+15;Ouacif;51
+15;Ouadhia;52
+15;Ouaguenoun;53
+15;Sidi Naamane;54
+15;Souamaa;55
+15;Souk El Thenine;56
+15;Tadmait;57
+15;Tigzirt;58
+15;Timizart;59
+15;Tirmitine;60
+15;Tizi Ghenif;61
+15;Tizi N'Thalata;62
+15;Tizi Ouzou;63
+15;Tizi Rached;64
+15;Yakourene;65
+15;Yatafene;66
+15;Zekri;67
+16;;
+16;Ain Benian;1
+16;Ain Taya;2
+16;Alger Centre;3
+16;Bab El Oued;4
+16;Bab Ezzouar;5
+16;Baba Hassen;6
+16;Bachedjerah;7
+16;Baraki;8
+16;Ben Aknoun;9
+16;Beni Messous;10
+16;Bir Mourad Rais;11
+16;Birkhadem;12
+16;Birtouta;13
+16;Bologhine;14
+16;Bordj El Bahri;15
+16;Bordj El Kiffan;16
+16;Bourouba;17
+16;Bouzareah;18
+16;Casbah;19
+16;Cheraga;20
+16;Dar El Beida;21
+16;Dely Brahim;22
+16;Douera;23
+16;Draria;24
+16;El Achour;25
+16;El Biar;26
+16;El Hammamet;27
+16;El Harrach;28
+16;El Madania;29
+16;El Magharia;30
+16;El Mouradia;31
+16;Gue de Constantine;32
+16;Hamma Annassers;33
+16;Haraoua;34
+16;Hussein Dey;35
+16;Hydra;36
+16;Khraicia;37
+16;Kouba;38
+16;Les Eucalyptus;39
+16;Marsa;40
+16;Mehelma;41
+16;Mohamed Belouizdad;42
+16;Mohammadia;43
+16;Oued Koriche;44
+16;Oued Smar;45
+16;Ouled Chebel;46
+16;Ouled Fayet;47
+16;Rahmania;48
+16;Rais Hamidou;49
+16;Reghaia;50
+16;Rouiba;51
+16;Saoula;52
+16;Sidi M'Hamed;53
+16;Sidi Moussa;54
+16;Souidania;55
+16;Staoueli;56
+16;Tassala El Merdja;57
+16;Zeralda;58
+17;;
+17;Ain Chouhada;1
+17;Ain El Ibel;2
+17;Ain Feka;3
+17;Ain Maabed;4
+17;Ain Oussera;5
+17;Amourah;6
+17;Benhar;7
+17;Beni Yagoub;8
+17;Birine;9
+17;Bouira Lahdab;10
+17;Charef;11
+17;Dar Chioukh;12
+17;Deldoul;13
+17;Djelfa;14
+17;Douis;15
+17;El Guedid;16
+17;El Idrissia;17
+17;El Khemis;18
+17;Faidh El Botma;19
+17;Guernini;20
+17;Guettara;21
+17;Had Sahary;22
+17;Hassi Bahbah;23
+17;Hassi El Euch;24
+17;Hassi Fedoul;25
+17;Messaad;26
+17;Mliliha;27
+17;Mouadjebar;28
+17;Oum Laadham;29
+17;Sed Rahal;30
+17;Selmana;31
+17;Sidi Baizid;32
+17;Sidi Ladjel;33
+17;Tadmit;34
+17;Zaafrane;35
+17;Zaccar;36
+18;;
+18;Bordj Taher;1
+18;Boudria Beni Yadjis;2
+18;Bouraoui Belhadef;3
+18;Boussif Ouled Askeur;4
+18;Chahna;5
+18;Chekfa;6
+18;Djemaa Beni Habibi;7
+18;Djimla;8
+18;El Ancer;9
+18;El Aouana;10
+18;El Kennar Nouchfi;11
+18;El Milia;12
+18;Emir Abdelkader;13
+18;Erraguene;14
+18;Ghebala;15
+18;Jijel;16
+18;Kaous;17
+18;Kemir Oued Adjoul;18
+18;Ouadjana;19
+18;Ouled Rabah;20
+18;Ouled Yahia Khadrouch;21
+18;Selma Benziada;22
+18;Settara;23
+18;Sidi Abdelaziz;24
+18;Sidi Maarouf;25
+18;Taher;26
+18;Texena;27
+18;Ziama Mansouriah;28
+19;;
+19;Ain Abessa;1
+19;Ain Arnat;2
+19;Ain Azal;3
+19;Ain El Kebira;4
+19;Ain Lahdjar;5
+19;Ain Legraj;6
+19;Ain Oulmane;7
+19;Ain Roua;8
+19;Ain Sebt;9
+19;Ait Naoual Mezada;10
+19;Ait Tizi;11
+19;Amoucha;12
+19;Babor;13
+19;Bazer Sakhra;14
+19;Beidha Bordj;15
+19;Belaa;16
+19;Beni Aziz;17
+19;Beni Chebana;18
+19;Beni Fouda;19
+19;Beni Hocine;20
+19;Beni Mouhli;21
+19;Beni Ourtilane;22
+19;Bir El Arch;23
+19;Bir Haddada;24
+19;Bouandas;25
+19;Bougaa;26
+19;Bousselam;27
+19;Boutaleb;28
+19;Dehamcha;29
+19;Djemila;30
+19;Draa Kebila;31
+19;El Eulma;32
+19;El Ouldja;33
+19;El Ouricia;34
+19;Guelal Boutaleb;35
+19;Guelta Zerka;36
+19;Guenzet;37
+19;Guijel;38
+19;Hamma;39
+19;Hammam Guergour;40
+19;Harbil;41
+19;Ksar El Abtal;42
+19;Maaouia;43
+19;Maouaklane;44
+19;Mezloug;45
+19;Oued El Barad;46
+19;Ouled Addouane;47
+19;Ouled Sabor;48
+19;Ouled Si Ahmed;49
+19;Ouled Tebben;50
+19;Oum Ladjoul;51
+19;Rosfa;52
+19;Salah Bey;53
+19;Serdj El Ghoul;54
+19;Setif;55
+19;Tachouda;56
+19;Talaifacene;57
+19;Taya;58
+19;Tella;59
+19;Tizi N'Bechar;60
+20;;
+20;Ain El Hadjar;1
+20;Ain Sekhouna;2
+20;Ain Soltane;3
+20;Doui Thabet;4
+20;El Hassasna;5
+20;Hounet;6
+20;Maamora;7
+20;Moulay Larbi;8
+20;Ouled Brahim;9
+20;Ouled Khaled;10
+20;Saida;11
+20;Sidi Ahmed;12
+20;Sidi Amar;13
+20;Sidi Boubekeur;14
+20;Tircine;15
+20;Youb;16
+21;;
+21;Ain Bouziane;1
+21;Ain Cherchar;2
+21;Ain Kechra;3
+21;Ain Zouit;4
+21;Azzaba;5
+21;Bein El Ouiden;6
+21;Bekkouche Lakhdar;7
+21;Benazouz;8
+21;Beni Bachir;9
+21;Beni Oulbane;10
+21;Benizid;11
+21;Bouchtata;12
+21;Cheraia;13
+21;Collo;14
+21;Djendel Saadi Mohamed;15
+21;El Ghedir;16
+21;El Hadaik;17
+21;El Harrouche;18
+21;El Marsa;19
+21;Emdjez Edchich;20
+21;Es Sebt;21
+21;Fil Fila;22
+21;Hamadi Krouma;23
+21;Kanoua;24
+21;Kerkera;25
+21;Kheneg Mayoum;26
+21;Oued Zehour;27
+21;Ouldja Boulbalout;28
+21;Ouled Attia;29
+21;Ouled Hebaba;30
+21;Oum Toub;31
+21;Ramdane Djamel;32
+21;Salah Bouchaour;33
+21;Sidi Mezghiche;34
+21;Skikda;35
+21;Tamalous;36
+21;Zerdazas;37
+21;Zitouna;38
+22;;
+22;Ain Adden;1
+22;Ain El Berd;2
+22;Ain Kada;3
+22;Ain Thrid;4
+22;Ain Tindamine;5
+22;Amarnas;6
+22;Badredine El Mokrani;7
+22;Belarbi;8
+22;Ben Badis;9
+22;Benachiba Chella;10
+22;Bir El Hammam;11
+22;Boudjebaa El Bordj;12
+22;Boukhanifis;13
+22;Chetouane Belaila;14
+22;Dhaya;15
+22;El Hacaiba;16
+22;Hassi Dahou;17
+22;Hassi Zehana;18
+22;Lamtar;19
+22;M'Cid;20
+22;Makedra;21
+22;Marhoum;22
+22;Merine;23
+22;Mezaourou;24
+22;Mostefa Ben Brahim;25
+22;Moulay Slissen;26
+22;Oued Sebaa;27
+22;Oued Sefioun;28
+22;Oued Taourira;29
+22;Ras El Ma;30
+22;Redjem Demouche;31
+22;Sehala Thaoura;32
+22;Sfisef;33
+22;Sidi Ali Benyoub;34
+22;Sidi Ali Boussidi;35
+22;Sidi Bel Abbes;36
+22;Sidi Brahim;37
+22;Sidi Chaib;38
+22;Sidi Dahou De Zairs;39
+22;Sidi Hamadouche;40
+22;Sidi Khaled;41
+22;Sidi Lahcene;42
+22;Sidi Yacoub;43
+22;Tabia;44
+22;Tafissour;45
+22;Taoudmout;46
+22;Teghalimet;47
+22;Telagh;48
+22;Tenezara;49
+22;Tenira;50
+22;Tessala;51
+22;Tilmouni;52
+22;Zerouala;53
+23;;
+23;Ain Berda;1
+23;Annaba;2
+23;Berrahel;3
+23;Chetaibi;4
+23;Cheurfa;5
+23;El Bouni;6
+23;El Hadjar;7
+23;Eulma;8
+23;Oued El Aneb;9
+23;Seraidi;10
+23;Sidi Amer;11
+23;Treat;12
+24;;
+24;Ain Ben Beida;1
+24;Ain Larbi;2
+24;Ain Makhlouf;3
+24;Ain Reggada;4
+24;Ain Sandel;5
+24;Belkhir;6
+24;Ben-Djarah;7
+24;Beni Mezline;8
+24;Bordj Sabat;9
+24;Bou Hamdane;10
+24;Bou Sbaa;11
+24;Bouati Mahmoud;12
+24;Bouchegouf;13
+24;Bouhachana;14
+24;Boumahra Ahmed;15
+24;Dahouara;16
+24;Djeballah Khemissi;17
+24;El Fedjoudj;18
+24;Guelma;19
+24;Hammam Maskhoutine;20
+24;Hammam N'Bail;21
+24;Heliopolis;22
+24;Houari Boumediene;23
+24;Khezara;24
+24;Medjez Amar;25
+24;Medjez Sfa;26
+24;Nechmaya;27
+24;Oued Cheham;28
+24;Oued Fragha;29
+24;Oued Zenati;30
+24;Ras El Agba;31
+24;Roknia;32
+24;Salaoua Announa;33
+24;Tamlouka;34
+25;;
+25;Ain Abid;1
+25;Ain Smara;2
+25;Ben Badis;3
+25;Beni Hamiden;4
+25;Constantine;5
+25;Didouche Mourad;6
+25;El Khroub;7
+25;Hamma Bouziane;8
+25;Ibn Ziad;9
+25;Messaoud Boudjriou;10
+25;Ouled Rahmoune;11
+25;Zighoud Youcef;12
+26;;
+26;Ain Boucif;1
+26;Ain Ou Ksir;2
+26;Aissaouia;3
+26;Aziz;4
+26;Baata;5
+26;Benchicao;6
+26;Beni Slimane;7
+26;Berrouaghia;8
+26;Bir Ben Laabed;9
+26;Boghar;10
+26;Bou Aiche;11
+26;Bouaichoune;12
+26;Bouchrahil;13
+26;Boughezoul;14
+26;Bouskene;15
+26;Chahbounia;16
+26;Chelalet El Adhaoura;17
+26;Cheniguel;18
+26;Damiat;19
+26;Derrag;20
+26;Deux Bassins;21
+26;Djouab;22
+26;Draa Essamar;23
+26;El Azizia;24
+26;El Guelbelkebir;25
+26;El Hamdania;26
+26;El Omaria;27
+26;El Ouinet;28
+26;Hannacha;29
+26;Kef Lakhdar;30
+26;Khams Djouamaa;31
+26;Ksar El Boukhari;32
+26;Medea;33
+26;Medjebar;34
+26;Meftaha;35
+26;Meghraoua;36
+26;Mezerana;37
+26;Mihoub;38
+26;Ouamri;39
+26;Oued Harbil;40
+26;Ouled Antar;41
+26;Ouled Bouachra;42
+26;Ouled Brahim;43
+26;Ouled Deide;44
+26;Ouled Hellal;45
+26;Ouled Maaref;46
+26;Oum El Djalil;47
+26;Ouzera;48
+26;Rebaia;49
+26;Saneg;50
+26;Sedraia;51
+26;Seghouane;52
+26;Sidi Damed;53
+26;Sidi Errabia;54
+26;Sidi Mahdjoub;55
+26;Sidi Naamane;56
+26;Sidi Zahar;57
+26;Sidi Ziane;58
+26;Souagui;59
+26;Tablat;60
+26;Tafraout;61
+26;Tamesguida;62
+26;Tlalet Eddouar;63
+26;Zoubiria;64
+27;;
+27;Abdelmalek-Ramdane;1
+27;Achaacha;2
+27;Ain Boudinar;3
+27;Ain Nouissy;4
+27;Ain Sidi Cherif;5
+27;Ain Tadles;6
+27;Bouguirat;7
+27;El Hassiane;8
+27;Fornaka;9
+27;Hadjadj;10
+27;Hassi Maameche;11
+27;Khadra;12
+27;Kheiredine;13
+27;Mansourah;14
+27;Mesra;15
+27;Mezghrane;16
+27;Mostaganem;17
+27;Nekmaria;18
+27;Oued El Kheir;19
+27;Ouled Boughalem;20
+27;Ouled Maallah;21
+27;Safsaf;22
+27;Sayada;23
+27;Sidi Ali;24
+27;Sidi Bellater;25
+27;Sidi Lakhdar;26
+27;Sirat;27
+27;Souaflia;28
+27;Sour;29
+27;Stidia;30
+27;Tazgait;31
+27;Touahria;32
+28;;
+28;Ain El Hadjel;1
+28;Ain El Melh;2
+28;Ain Errich;3
+28;Ain Fares;4
+28;Ain Khadra;5
+28;Belaiba;6
+28;Ben Srour;7
+28;Beni Ilmane;8
+28;Benzouh;9
+28;Berhoum;10
+28;Bir Foda;11
+28;Bou Saada;12
+28;Bouti Sayah;13
+28;Chellal;14
+28;Dehahna;15
+28;Djebel Messaad;16
+28;El Hamel;17
+28;El Houamed;18
+28;Hammam Dhalaa;19
+28;Khoubana;20
+28;M'Cif;21
+28;M'Sila;22
+28;M'Tarfa;23
+28;Maadid;24
+28;Maarif;25
+28;Magra;26
+28;Medjedel;27
+28;Mohamed Boudiaf;28
+28;Ouanougha;29
+28;Ouled Addi Guebala;30
+28;Ouled Atla;31
+28;Ouled Derradj;32
+28;Ouled Madhi;33
+28;Ouled Mansour;34
+28;Ouled Sidi Brahim;35
+28;Ouled Slimane;36
+28;Oulteme;37
+28;Sidi Aissa;38
+28;Sidi Ameur;39
+28;Sidi Hadjeres;40
+28;Sidi M'Hamed;41
+28;Slim;42
+28;Souamaa;43
+28;Tamsa;44
+28;Tarmount;45
+28;Zarzour;46
+28;Zerarka;47
+29;;
+29;Ain Fares;1
+29;Ain Fekan;2
+29;Ain Ferah;3
+29;Ain Frass;4
+29;Alaimia;5
+29;Aouf;6
+29;Benian;7
+29;Bou Hanifia;8
+29;Bouhenni;9
+29;Chorfa;10
+29;El Bordj;11
+29;El Gaada;12
+29;El Ghomri;13
+29;El Hachem;14
+29;El Keurt;15
+29;El Mamounia;16
+29;El Menaouer;17
+29;Ferraguig;18
+29;Froha;19
+29;Gharrous;20
+29;Ghriss;21
+29;Guerdjoum;22
+29;Guettena;23
+29;Hacine;24
+29;Khalouia;25
+29;Makdha;26
+29;Maoussa;27
+29;Mascara;28
+29;Matemore;29
+29;Moctadouz;30
+29;Mohammadia;31
+29;Nesmot;32
+29;Oggaz;33
+29;Oued El Abtal;34
+29;Oued Taria;35
+29;Ras Ain Amirouche;36
+29;Sedjerara;37
+29;Sehailia;38
+29;Sidi Abdeldjebar;39
+29;Sidi Abdelmoumene;40
+29;Sidi Boussaid;41
+29;Sidi Kada;42
+29;Sig;43
+29;Teghenif;44
+29;Tizi;45
+29;Zahana;46
+29;Zelamta;47
+30;;
+30;Ain Beida;1
+30;Balidat Ameur;2
+30;Benaceur;3
+30;El Allia;4
+30;El Borma;5
+30;El Hadjira;6
+30;Hassi Ben Abdellah;7
+30;Hassi Messaoud;8
+30;M'Naguer;9
+30;Megarine;10
+30;N'Goussa;11
+30;Nezla;12
+30;Ouargla;13
+30;Rouissat;14
+30;Sidi Khouiled;15
+30;Sidi Slimane;16
+30;Taibet;17
+30;Tamacine;18
+30;Tebesbest;19
+30;Touggourt;20
+30;Zaouia El Abidia;21
+31;;
+31;Ain Biya;1
+31;Ain Kerma;2
+31;Ain Turk;3
+31;Arzew;4
+31;Ben Freha;5
+31;Bethioua;6
+31;Bir El Djir;7
+31;Boufatis;8
+31;Bousfer;9
+31;Boutlelis;10
+31;El Ancar;11
+31;El Braya;12
+31;El Karma;13
+31;Es Senia;14
+31;Gdyel;15
+31;Hassi Ben Okba;16
+31;Hassi Bounif;17
+31;Hassi Mefsoukh;18
+31;Marsat El Hadjadj;19
+31;Mers El Kebir;20
+31;Messerghin;21
+31;Oran;22
+31;Oued Tletat;23
+31;Sidi Ben Yabka;24
+31;Sidi Chami;25
+31;Tafraoui;26
+32;;
+32;Ain El Orak;1
+32;Arbaouat;2
+32;Boualem;3
+32;Bougtoub;4
+32;Boussemghoun;5
+32;Brezina;6
+32;Cheguig;7
+32;Chellala;8
+32;El Abiodh Sidi Cheikh;9
+32;El Bayadh;10
+32;El Bnoud;11
+32;El Kheither;12
+32;El Mehara;13
+32;Ghassaul;14
+32;Kef El Ahmar;15
+32;Krakda;16
+32;Rogassa;17
+32;Sidi Ameur;18
+32;Sidi Slimane;19
+32;Sidi Tifour;20
+32;Stitten;21
+32;Tousmouline;22
+33;;
+33;Bordj El Haouasse;1
+33;Bordj Omar Driss;2
+33;Debdeb;3
+33;Djanet;4
+33;Illizi;5
+33;In Amenas;6
+34;;
+34;Ain Taghrout;1
+34;Ain Tesra;2
+34;Belimour;3
+34;Ben Daoud;4
+34;Bir Kasdali;5
+34;Bord Ghdir;6
+34;Bordj Bou Arreridj;7
+34;Bordj Zemoura;8
+34;Colla;9
+34;Djaafra;10
+34;El Ach;11
+34;El Achir;12
+34;El Anseur;13
+34;El Hamadia;14
+34;El M'Hir;15
+34;El Main;16
+34;Ghilassa;17
+34;Haraza;18
+34;Hasnaoua;19
+34;Khelil;20
+34;Ksour;21
+34;Mansoura;22
+34;Medjana;23
+34;Ouled Brahem;24
+34;Ouled Dahmane;25
+34;Ouled Sidi Brahim;26
+34;Rabta;27
+34;Ras El Oued;28
+34;Sidi Embarek;29
+34;Tafreg;30
+34;Taglait;31
+34;Teniet En Nasr;32
+34;Tesmart;33
+34;Tixter;34
+35;;
+35;Afir;1
+35;Ammal;2
+35;Baghlia;3
+35;Ben Choud;4
+35;Beni Amrane;5
+35;Bordj Menaiel;6
+35;Boudouaou;7
+35;Boudouaou El Bahri;8
+35;Boumerdes;9
+35;Bouzegza Keddara;10
+35;Cap Djinet;11
+35;Chabet El Ameur;12
+35;Corso;13
+35;Dellys;14
+35;El Kharrouba;15
+35;Hammadi;16
+35;Isser;17
+35;Khemis El Khechna;18
+35;Larbatache;19
+35;Leghata;20
+35;Naciria;21
+35;Ouled Aissa;22
+35;Ouled Hedadj;23
+35;Ouled Moussa;24
+35;Si Mustapha;25
+35;Sidi Daoud;26
+35;Souk El Had;27
+35;Taourga;28
+35;Thenia;29
+35;Tidjelabine;30
+35;Timezrit;31
+35;Zemmouri;32
+36;;
+36;Ain El Assel;1
+36;Ain Kerma;2
+36;Asfour;3
+36;Ben M'Hidi;4
+36;Beni Amar;5
+36;Berrihane;6
+36;Besbes;7
+36;Bougous;8
+36;Bouhadjar;9
+36;Bouteldja;10
+36;Chebaita Mokhtar;11
+36;Chefia;12
+36;Chihani;13
+36;Drean;14
+36;Echatt;15
+36;El Aioun;16
+36;El Kala;17
+36;El Tarf;18
+36;Hammam Beni Salah;19
+36;Lac Des Oiseaux;20
+36;Oued Zitoun;21
+36;Raml Souk;22
+36;Souarekh;23
+36;Zerizer;24
+36;Zitouna;25
+37;;
+37;Oum El Assel;1
+37;Tindouf;2
+38;;
+38;Ammari;1
+38;Beni Chaib;2
+38;Beni Lahcene;3
+38;Bordj Bou Naama;4
+38;Bordj El Amir Abdelkader;5
+38;Boucaid;6
+38;Khemisti;7
+38;Larbaa;8
+38;Lardjem;9
+38;Layoune;10
+38;Lazharia;11
+38;Maasem;12
+38;Melaab;13
+38;Ouled Bessem;14
+38;Sidi Abed;15
+38;Sidi Boutouchent;16
+38;Sidi Lantri;17
+38;Sidi Slimane;18
+38;Tamalaht;19
+38;Theniet El Had;20
+38;Tissemsilt;21
+38;Youssoufia;22
+39;;
+39;Bayadha;1
+39;Beni Guecha;2
+39;Debila;3
+39;Djamaa;4
+39;Douar El Ma;5
+39;El M'Ghair;6
+39;El Ogla;7
+39;El Oued;8
+39;Guemar;9
+39;Hamraia;10
+39;Hassani Abdelkrim;11
+39;Hassi Khelifa;12
+39;Kouinine;13
+39;M'Rara;14
+39;Magrane;15
+39;Mih Ouansa;16
+39;Nakhla;17
+39;Oued El Alenda;18
+39;Oum Touyour;19
+39;Ourmas;20
+39;Reguiba;21
+39;Robbah;22
+39;Sidi Amrane;23
+39;Sidi Aoun;24
+39;Sidi Khellil;25
+39;Still;26
+39;Taghzout;27
+39;Taleb Larbi;28
+39;Tendla;29
+39;Trifaoui;30
+40;;
+40;Ain Touila;1
+40;Babar;2
+40;Baghai;3
+40;Bouhmama;4
+40;Chelia;5
+40;Cherchar;6
+40;Djellal;7
+40;El Hamma;8
+40;El Mahmal;9
+40;El Ouldja;10
+40;Ensigha;11
+40;Kais;12
+40;Khenchela;13
+40;Khirane;14
+40;M'Sara;15
+40;M'Toussa;16
+40;Ouled Rechache;17
+40;Remila;18
+40;Tamza;19
+40;Taouzient;20
+40;Yabous;21
+41;;
+41;Ain Soltane;1
+41;Ain Zana;2
+41;Bir Bouhouche;3
+41;Drea;4
+41;Haddada;5
+41;Hanancha;6
+41;Khedara;7
+41;Khemissa;8
+41;M'Daourouch;9
+41;Mechroha;10
+41;Merahna;11
+41;Oued Keberit;12
+41;Ouillen;13
+41;Ouled Driss;14
+41;Ouled Moumen;15
+41;Oum El Adhaim;16
+41;Ragouba;17
+41;Safel El Ouiden;18
+41;Sedrata;19
+41;Sidi Fredj;20
+41;Souk Ahras;21
+41;Taoura;22
+41;Terraguelt;23
+41;Tiffech;24
+41;Zaarouria;25
+41;Zouabi;26
+42;;
+42;Aghbal;1
+42;Ahmer El Ain;2
+42;Ain Tagourait;3
+42;Attatba;4
+42;Beni Milleuk;5
+42;Bou Haroun;6
+42;Bou Ismail;7
+42;Bourkika;8
+42;Chaiba;9
+42;Cherchell;10
+42;Damous;11
+42;Douaouda;12
+42;Fouka;13
+42;Gouraya;14
+42;Hadjerat Ennous;15
+42;Hadjout;16
+42;Khemisti;17
+42;Kolea;18
+42;Larhat;19
+42;Menaceur;20
+42;Messeloum;21
+42;Meurad;22
+42;Nador;23
+42;Sidi Amar;24
+42;Sidi Ghiles;25
+42;Sidi Rached;26
+42;Sidi Semiane;27
+42;Tipasa;28
+43;;
+43;Ahmed Rachedi;1
+43;Ain Beida Harriche;2
+43;Ain Mellouk;3
+43;Ain Tine;4
+43;Amira Arras;5
+43;Benyahia Abderrahmane;6
+43;Bouhatem;7
+43;Chelghoum Laid;8
+43;Chigara;9
+43;Derradji Bousselah;10
+43;El Mechira;11
+43;Elayadi Barbes;12
+43;Ferdjioua;13
+43;Grarem Gouga;14
+43;Hamala;15
+43;Mila;16
+43;Minar Zarza;17
+43;Oued Athmenia;18
+43;Oued Endja;19
+43;Oued Seguen;20
+43;Ouled Khalouf;21
+43;Rouached;22
+43;Sid Merouane;23
+43;Sidi Khelifa;24
+43;Tadjenanet;25
+43;Tassadane Haddada;26
+43;Telerghma;27
+43;Terrai Bainen;28
+43;Tessala Lamatai;29
+43;Tiberguent;30
+43;Yahia Beniguecha;31
+43;Zeghaia;32
+44;;
+44;Ain Benian;1
+44;Ain Bouyahia;2
+44;Ain Defla;3
+44;Ain Lechiakh;4
+44;Ain Soltane;5
+44;Ain Torki;6
+44;Arib;7
+44;Barbouche;8
+44;Bathia;9
+44;Belaas;10
+44;Ben Allal;11
+44;Bir Ould Khelifa;12
+44;Bord Emir Khaled;13
+44;Boumedfaa;14
+44;Bourached;15
+44;Djelida;16
+44;Djemaa Ouled Chikh;17
+44;Djendel;18
+44;El Abadia;19
+44;El Amra;20
+44;El Attaf;21
+44;El Hassania;22
+44;El Maine;23
+44;Hammam Righa;24
+44;Hoceinia;25
+44;Khemis Miliana;26
+44;Mekhatria;27
+44;Miliana;28
+44;Oued Chorfa;29
+44;Oued Djemaa;30
+44;Rouina;31
+44;Sidi Lakhdar;32
+44;Tacheta Zougagha;33
+44;Tarik Ibn Ziad;34
+44;Teberkanine;35
+44;Zeddine;36
+45;;
+45;Ain Ben Khelil;1
+45;Ain Sefra;2
+45;Assela;3
+45;Djeniane Bourzeg;4
+45;El Biod;5
+45;Kasdir;6
+45;Makman Ben Amer;7
+45;Mecheria;8
+45;Moghrar;9
+45;Naama;10
+45;Sfissifa;11
+45;Tiout;12
+46;;
+46;Aghlal;1
+46;Ain El Arbaa;2
+46;Ain Kihal;3
+46;Ain Temouchent;4
+46;Ain Tolba;5
+46;Aoubellil;6
+46;Beni Saf;7
+46;Bou Zedjar;8
+46;Chaabet El Ham;9
+46;Chentouf;10
+46;El Amria;11
+46;El Emir Abdelkader;12
+46;El Malah;13
+46;El Messaid;14
+46;Hammam Bouhadjar;15
+46;Hassasna;16
+46;Hassi El Ghella;17
+46;Oued Berkeche;18
+46;Oued Sabah;19
+46;Ouled Boudjemaa;20
+46;Ouled Kihal;21
+46;Oulhaca El Gheraba;22
+46;Sidi Ben Adda;23
+46;Sidi Boumediene;24
+46;Sidi Safi;25
+46;Tadmaya;26
+46;Tamzoura;27
+46;Terga;28
+47;;
+47;Berriane;1
+47;Bounoura;2
+47;Dhayet Bendhahoua;3
+47;El Atteuf;4
+47;El Guerrara;5
+47;El Meniaa;6
+47;Ghardaia;7
+47;Hassi Fhel;8
+47;Hassi Gara;9
+47;Mansoura;10
+47;Metlili;11
+47;Sebseb;12
+47;Zelfana;13
+48;;
+48;Ain Rahma;1
+48;Ain Tarek;2
+48;Ammi Moussa;3
+48;Belaassel Bouzegza;4
+48;Bendaoud;5
+48;Beni Dargoun;6
+48;Beni Zentis;7
+48;Dar Ben Abdallah;8
+48;Djidiouia;9
+48;El Guettar;10
+48;El Hamadna;11
+48;El Hassi;12
+48;El Matmar;13
+48;El Ouldja;14
+48;Had Echkalla;15
+48;Hamri;16
+48;Kalaa;17
+48;Lahlef;18
+48;Mazouna;19
+48;Mediouna;20
+48;Mendes;21
+48;Merdja Sidi Abed;22
+48;Ouarizane;23
+48;Oued El Djemaa;24
+48;Oued Essalem;25
+48;Oued Rhiou;26
+48;Ouled Aiche;27
+48;Ouled Sidi Mihoub;28
+48;Ramka;29
+48;Relizane;30
+48;Sidi Khettab;31
+48;Sidi Lazreg;32
+48;Sidi M'Hamed Ben Aouda;33
+48;Sidi M'Hamed Benali;34
+48;Sidi Saada;35
+48;Souk El Haad;36
+48;Yellel;37
+48;Zemmoura;38
+100;Argenteuil Val D'Oise;1
+100;Aubervilliers;5
+100;Boulogne-Billancourt;9
+100;Clichy;3
+100;Dreux et Loir;7
+100;Gironde;10
+100;Montauban-Tarn et Garonne;4
+100;Orthez;8
+100;Paris;11
+100;Pau;2
+100;Villepinte;6
+101;Alep;1
+102;Tunis;1
+103;Allemagne;2
+103;Darmstadt;1
+104;Kharkov;1
+105;Mascate;1
+106;TEPLICE;1
+107;Stockholm;1
+108;Nouakchott;1
+109;Koweit;1
+110;Riyad;1
+111;Beyrouth;1
+112;Misrata;1

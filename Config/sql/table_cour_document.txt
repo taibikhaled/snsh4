@@ -1,0 +1,11 @@
+CREATE TABLE `snsh`.`cour_document` ( `id` INT NOT NULL AUTO_INCREMENT , 
+`dat` DATETIME NOT NULL , 
+`lib_doc` VARCHAR(200) NOT NULL , 
+`lien` VARCHAR(200) NOT NULL , 
+`etablissement` VARCHAR(30) NOT NULL , 
+`cldem` VARCHAR(30) NOT NULL , 
+`codmat` VARCHAR(30) NOT NULL , 
+`nom_ens` VARCHAR(60) NOT NULL , 
+`active` BOOLEAN DEFAULT false, 
+
+PRIMARY KEY (`id`)) ENGINE = InnoDB;

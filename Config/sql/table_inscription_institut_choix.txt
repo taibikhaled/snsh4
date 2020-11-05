@@ -1,0 +1,7 @@
+CREATE TABLE `snsh`.`inscription_institut_choix` ( 
+`id` INT NOT NULL AUTO_INCREMENT , 
+`id_formation` INT NOT NULL ,
+`designation` VARCHAR(200) NOT NULL , 
+`id_inscription` INT NOT NULL ,
+`choix` INT NOT NULL ,
+PRIMARY KEY (`id`)) ENGINE = InnoDB;

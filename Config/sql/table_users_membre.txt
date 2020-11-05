@@ -1,0 +1,14 @@
+CREATE TABLE `snsh`.`users_membre` 
+( `id` INT NOT NULL AUTO_INCREMENT , 
+`user` VARCHAR(30) NOT NULL , 
+`password` VARCHAR(30) NOT NULL, 
+`matricule` VARCHAR(30) NOT NULL, 
+`nom` VARCHAR(60) NOT NULL, 
+`dat_nais` date NOT NULL, 
+`categorie` VARCHAR(200) NOT NULL, 
+`institut` VARCHAR(200) NOT NULL, 
+`formation` VARCHAR(200) NOT NULL, 
+`active` VARCHAR(20) NOT NULL, 
+`img` VARCHAR(200) NOT NULL,
+`sexe` VARCHAR(20) NOT NULL,
+PRIMARY KEY (`id`) ) ENGINE = InnoDB;

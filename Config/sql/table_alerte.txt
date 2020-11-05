@@ -1,0 +1,12 @@
+CREATE TABLE `snsh`.`alerte` ( `id_msg` INT NOT NULL AUTO_INCREMENT , 
+`id` INT NOT NULL , 
+`nom` VARCHAR(50) NOT NULL , 
+`from_id` INT NOT NULL , 
+`from_nom` VARCHAR(50) NOT NULL , 
+`objet` TEXT NOT NULL , 
+`dat` DATETIME NOT NULL , 
+`body` TEXT NULL , 
+`active` VARCHAR(20) NOT NULL , 
+`vue` VARCHAR(20) NOT NULL , 
+`f_pj` VARCHAR(50)  NULL , 
+PRIMARY KEY (`id_msg`)) ENGINE = InnoDB;

@@ -1,0 +1,5 @@
+﻿CREATE TABLE `niveau_filialle` 
+(
+  `id` INT NOT NULL AUTO_INCREMENT,
+  
+`niveau_filialle` varchar(200) NOT NULL, PRIMARY KEY (`id`)) ENGINE = InnoDB;

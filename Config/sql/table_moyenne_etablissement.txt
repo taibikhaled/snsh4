@@ -1,0 +1,1 @@
+CREATE TABLE `snsh`.`moyenne_etablissement` ( `moy_adm` FLOAT NOT NULL , `moy_cneg` FLOAT NOT NULL ) ENGINE = InnoDB;

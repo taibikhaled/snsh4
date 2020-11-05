@@ -1,0 +1,1 @@
+CREATE TABLE `snsh`.`matiere` ( `id` INT NOT NULL AUTO_INCREMENT , `code_mat` VARCHAR(20) NOT NULL , `lib_matiere` VARCHAR(200) NOT NULL , `cat_formation` VARCHAR(30) NOT NULL , `id_niveau_filialle` INT NULL , `id_specialite` INT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;

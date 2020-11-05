@@ -1,0 +1,8 @@
+CREATE TABLE `snsh`.`specialite_etablissement` 
+(
+  id int(11) not null AUTO_INCREMENT,
+  CLE	VARCHAR(2),
+  SPEC	VARCHAR(80),
+  CLDEM	VARCHAR(5),
+  CPT	int(11),
+PRIMARY KEY (`id`)) ENGINE = InnoDB;

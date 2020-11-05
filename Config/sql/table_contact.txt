@@ -1,0 +1,8 @@
+CREATE TABLE `snsh`.`contact` 
+( `id` INT NOT NULL AUTO_INCREMENT , 
+`dat` DATETIME NOT NULL , 
+`nom` VARCHAR(200) NOT NULL , 
+`mail` VARCHAR(50) NOT NULL , 
+`content_text` TEXT NULL , 
+
+PRIMARY KEY (`id`)) ENGINE = InnoDB;

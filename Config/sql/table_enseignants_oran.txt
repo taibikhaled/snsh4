@@ -1,0 +1,4 @@
+CREATE TABLE `snsh`.`enseignants_oran` 
+( `id` INT NOT NULL AUTO_INCREMENT , 
+`nom` VARCHAR(60) NOT NULL , 
+ PRIMARY KEY (`id`)) ENGINE = InnoDB;
